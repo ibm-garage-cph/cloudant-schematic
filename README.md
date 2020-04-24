@@ -51,6 +51,6 @@ Go back to the schematics workspace and delete it including resources, by select
 Type in the name of the schematics workspace as a precaution.
 Last select *Delete*
 
-### 8.Optional: Follow the deletion of thw workspace again
+### 8.Optional: Follow the deletion of the workspace again
 Notice in the workspace list the deletion in progress. And in the resource list how the cloudant database disappears again.
 
